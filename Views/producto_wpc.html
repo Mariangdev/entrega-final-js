@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../Assets/css/productos.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <title>Agod's Store</title>
+</head>
+<body>
+    <header class="header">
+        <!-- start nav -->
+        <div id="header__button__active">
+            <p id="button__menu_active"><i class="fas fa-bars"></i></p>
+        </div>
+
+        <div id="header__logo">
+            <a class="logo" href="../index.html">
+                <div id="header__logo">
+                    <a class="logo" href="../index.html" >
+                      <p class="logo-name">Agod's Store</p>
+                    </a>
+                </div>
+            </a>
+        </div>
+
+        <nav id="header__menu">
+            <div id="header__button__close">
+                <p id="button__menu_close"><i class="fas fa-times"></i></p>
+            </div>
+            <!-- start menu -->
+            <ul>
+                <div class="header__buscar__menu">
+                    <i class="fas fa-search"></i>
+                    <input  type="search" placeholder="Buscar">
+                </div>
+                <li><a href="../index.html">Home</a></li>
+                <li id="down"><a class="border_menu_active" style="cursor: pointer;">Productos <p class="fas fa-chevron-down"></p></a>
+                    <!-- start menu desplegable -->
+                    <ul id="down__option">
+                        <li><a class="border" href="./producto_vinilicos.html">Vinilicos</a></li>
+                        <li><a class="border" href="./producto_wpc.html">WPC</a></li>
+                        <li><a class="border" href="./producto_porcelanato.html">Porcelanato</a></li>
+                        <li><a href="./productos.html">Ver todas las categorias</a></li>
+                    </ul>
+                    <!-- end menu desplegable -->
+                </li>
+                <li><a href="./contacto.html">Contacto</a></li>
+            </ul>
+            <!-- end menu -->
+        </nav>
+        <div class="header__buscar">
+            <i class="fas fa-search"></i>
+            <input  type="search" placeholder="Buscar">
+        </div>
+        <!-- end nav -->
+
+    </header>
+    <div id="icon__wpp">
+        <a href="https://api.whatsapp.com/send/?phone=5493413541638&text&app_absent=0"><img src="../Img/iconwpp.png" alt="icono whatsapp"></a>
+    </div>
+    <div id="location">
+        <p>Home<i class="fas fa-angle-right"></i>Producto<i class="fas fa-angle-right"></i> <span>WPC
+        </span></p>
+    </div>
+
+    <div class="titulo">
+        <div class="redes__line"></div>
+        <p>WPC</p>
+        <div class="redes__line"></div>
+    </div>
+    <div id="card__content">
+        <!-- JSON -->
+    </div>
+
+    <!-- MODAL -->
+    <div id="modal">
+        <div id="modal__content">
+        </div>
+    </div>
+    <footer>
+        <div class="titulo">
+            <div class="redes__line"></div>
+            <p>Nuestras redes</p> 
+            <div class="redes__line"></div>
+        </div>
+        <div class="redes__icon">
+            <a href= "https://api.whatsapp.com/send/?phone=5493413541638&text&app_absent=0" class="fab fa-whatsapp"></a>
+            <a href="https://www.instagram.com/AGOutdoorDesign/" class="fab fa-instagram"></a>
+            <a href="https://www.facebook.com/AGOutdoorDesign" class="fab fa-facebook"></a>
+        </div>
+
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+    <script src="../Assets/js/nav.js"></script>
+    <script>var tipo="WPC"</script>
+    <script src="../Assets/js/modal.js"></script>
+    
+</body>
+</html>

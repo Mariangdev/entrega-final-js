@@ -1,0 +1,242 @@
+[
+    {
+        "id":1,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-roble-alaska",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-294-aqua-blue-ab-roble-alaska-AGAQAB0001-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico.jpg","../Img/vinilico-2.jpg"]
+    },
+
+    {
+        "id":2,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-roble-arizona",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-295-aqua-blue-ab-roble-arizona-AGAQAB0002-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-3.jpg","../Img/vinilico-4.jpg"]
+    },
+
+    {
+        "id":3,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-roble-texas",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-296-aqua-blue-ab-roble-texas-AGAQAB0003-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-4.jpg","../Img/vinilico-5.jpg"]
+    },
+
+    {
+        "id":4,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-roble-kentucky",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-297-aqua-blue-ab-roble-kentucky-AGAQAB0004-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-6.jpg","../Img/vinilico-7.jpg"]
+    },
+
+    {
+        "id":5,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-roble-bremen",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-298-aqua-blue-ab-roble-bremen-AGAQAB0005-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-8.jpg","../Img/vinilico-9.jpg"]
+    },
+
+    {
+        "id":6,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-roble-munich",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-299-aqua-blue-ab-roble-munich-AGAQAB0006-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-10.jpg","../Img/vinilico-11.jpg"]
+    },
+
+    {
+        "id":7,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-california",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-300-aqua-blue-ab-california-AGAQAB0007-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-12.jpg","../Img/vinilico-13.jpg"]
+    },
+
+    {
+        "id":8,
+        "tipo":"Vinilicos",
+        "nombre":"aqua-blue-ab-nebraska",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-301-aqua-blue-ab-nebraska-AGAQAB0008-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-14.jpg","../Img/vinilico-15.jpg"]
+    },
+
+    {
+        "id":9,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-kansas",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-302-aqua-blue-ab-kansas-AGAQAB0009-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-16.jpg","../Img/vinilico-17.jpg"]
+    },
+
+    {
+        "id":10,
+        "tipo":"Vinilicos",
+        "nombre":"Aqua-blue-ab-sacramento",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-303-aqua-blue-ab-sacramento-AGAQAB0010-Sold-by-AG-outdoor-design-P1-600x600.png.webp","../Img/vinilico-18.jpg","../Img/vinilico-19.jpg"]
+    },
+
+    {
+        "id":11,
+        "tipo":"Vinilicos",
+        "nombre":"Max-core-home-oxido",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-307-max-core-home-oxido-AGMAHO5083-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-20.jpg","../Img/vinilico-8.jpg"]
+    },
+
+    {
+        "id":12,
+        "tipo":"Vinilicos",
+        "nombre":"Max-core-home-roble-gris",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-308-max-core-home-roble-gris-AGMAHO8001-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-17.jpg","../Img/vinilico-19.jpg"]
+    },
+
+    {
+        "id":13,
+        "tipo":"Vinilicos",
+        "nombre":"Max-core-home-nogal",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-309-max-core-home-nogal-AGMAHO8004-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-20.jpg","../Img/vinilico-3.jpg"]
+        },
+
+    {
+        "id":14,
+        "tipo":"Vinilicos",
+        "nombre":"Maxcore-antique-andes",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-334-maxcore-antique-andes-AGMAAN5002-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-8.jpg","../Img/vinilico-14.jpg"]
+    },
+
+    {
+        "id":15,
+        "tipo":"Vinilicos",
+        "nombre":"Maxcore-antique-aconcagua",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-335-maxcore-antique-aconcagua-AGMAAN5003-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-2.jpg","../Img/vinilico-5.jpg"]
+    },
+
+    {
+        "id":16,
+        "tipo":"Vinilicos",
+        "nombre":"Maxcore-antique-makalu",
+        "medidas":"18.4 cm x 122 cm espesor 4mm",
+        "img":["../Img/productos/pisos-vinilicos-336-maxcore-antique-makalu-AGMAAN5004-Sold-by-AG-outdoor-design-P1@2x-600x600.jpg.webp","../Img/vinilico-3.jpg","../Img/vinilico-16.jpg"]
+    },
+    {
+        "id":17,
+        "tipo":"Porcelanatos",
+        "nombre":"Geotiles-ulmo-gris",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-450-geotiles-ulmo-ulmo-gris-AGGEUL0042-Sold-by-AG-outdoor-design-T-600x600.png.webp","../Img/porcelanatos-1.jpg","../Img/porcelanatos-2.jpg"]
+    },
+    {
+        "id":18,
+        "tipo":"Porcelanatos",
+        "nombre":"Geotiles-ulmo-ulmo-haya",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-451-geotiles-ulmo-ulmo-haya-AGGEUL0043-Sold-by-AG-outdoor-design-T-600x600.png.webp","../Img/porcelanatos-3.jpg","../Img/porcelanatos-4.jpg"]
+    },
+    {
+        "id":19,
+        "tipo":"Porcelanatos",
+        "nombre":"Geotiles-olea-silver",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-452-geotiles-olea-olea-silver-AGGEOL0044-Sold-by-AG-outdoor-design-T-600x600.png.webp","../Img/porcelanatos-4.jpg","../Img/porcelanatos-5.jpg"]
+    },
+    {
+        "id":20,
+        "tipo":"Porcelanatos",
+        "nombre":"Geotiles-olea-haya",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-453-geotiles-olea-olea-haya-AGGEOL0045-Sold-by-AG-outdoor-design-T-600x600.png.webp","../Img/porcelanatos-1.jpg","../Img/porcelanatos-3.jpg"]
+    },
+    {
+        "id":21,
+        "tipo":"Porcelanatos",
+        "nombre":"Geotiles-olea-miel",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-454-geotiles-olea-olea-miel-AGGEOL0046-Sold-by-AG-outdoor-design-T-600x600.png.webp","../Img/porcelanatos-2.jpg","../Img/porcelanatos-4.jpg"]
+    },
+    {
+        "id":22,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-atelier-beige-",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-atelier-atelier-beige-AGHAAT0013-AG-outdoor-design-P-600x600.jpg.webp","../Img/porcelanatos-3.jpg","../Img/porcelanatos-5.jpg"]
+    },
+    {
+        "id":23,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-atelier-atelier-blanco",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-atelier-atelier-blanco-AGHAAT0016-AG-outdoor-design-P-600x600.jpg.webp","../Img/porcelanatos-1.jpg","../Img/porcelanatos-5.jpg"]
+    },
+    {
+        "id":24,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-atelier-atelier-gris",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-atelier-atelier-gris-AGHAAT0014-AG-outdoor-design-P-1-600x600.jpg.webp","../Img/porcelanatos-4.jpg","../Img/porcelanatos-3.jpg"]
+    },
+    {
+        "id":25,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-atelier-natural",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-atelier-atelier-natural-AGHAAT0017-AG-outdoor-design-P-600x600.jpg.webp","../Img/porcelanatos-1.jpg","../Img/porcelanatos-1.jpg"]
+    },
+    {
+        "id":26,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-atelier-taupe",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-atelier-atelier-taupe-AGHAAT0015-AG-outdoor-design-P-1-600x600.jpg.webp","../Img/porcelanatos-2.jpg","../Img/porcelanatos-3.jpg"]
+    },
+    {
+        "id":27,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-sirouk-taupe-",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-sirouk-sirouk-taupe-AGHASI0018-AG-outdoor-design-P-1-600x600.jpg.webp","../Img/porcelanatos-5.jpg","../Img/porcelanatos-2.jpg"]
+    },
+    {
+        "id":28,
+        "tipo":"Porcelanatos",
+        "nombre":"Halcon-ceramicas-veracruz-taupe",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-halcon-ceramicas-veracruz-veracruz-taupe-AGHAVE0019-AG-outdoor-design-P-1-600x600.jpg.webp","../Img/porcelanatos-5.jpg"]
+    },
+    {
+        "id":29,
+        "tipo":"Porcelanatos",
+        "nombre":"Onice-aragon-blanco",
+        "medidas":"23.3cm x 120cm  espesor 8mm ",
+        "img":["../Img/productos/porcelanatos-onice-aragon-aragon-blanco-AGONAR0027-AG-outdoor-design-P-600x600.jpg.webp","../Img/porcelanatos-4.jpg"]
+    },
+    {
+        "id":30,
+        "tipo":"WPC",
+        "nombre":"Timbertex-firstgen-nordic-ash",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/deck-wpc-388-timbertex-firstgen-nordic-ash-AGTIFi0142-Sold-by-AG-outdoor-design-P1-600x600.png.webp","../Img/wpc-1.jpg","../Img/248229061_1928681923958103_5154111613768939435_n.jpg"]
+    },
+    {
+        "id":31,
+        "tipo":"WPC",
+        "nombre":"Timbertex-firstgen-tobacco",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/deck-wpc-389-timbertex-firstgen-tobacco-AGTIFi0143-Sold-by-AG-outdoor-design-P1-600x600.png.webp","../Img/wpc-2.jpg","../Img/245907866_1928743737285255_66219542971907327_n.jpg"]
+    },
+    {
+        "id":32,
+        "tipo":"WPC",
+        "nombre":"Timbertex-firstgen-classic-oak",
+        "medidas":"15 x 10 cm",
+        "img":["../Img/productos/deck-wpc-390-timbertex-firstgen-classic-oak-AGTIFi0144-Sold-by-AG-outdoor-design-P1-600x600.png.webp","../Img/wpc-3.jpg","../Img/245944145_1927770227382606_644369975178374683_n.jpg"]
+    }
+
+]
